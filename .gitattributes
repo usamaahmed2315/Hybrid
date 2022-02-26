@@ -1,1 +1,4 @@
 myfolder/** filter=lfs diff=lfs merge=lfs -text
+myfolder/**/* filter=lfs diff=lfs merge=lfs -text
+Hybrid/**/* filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
